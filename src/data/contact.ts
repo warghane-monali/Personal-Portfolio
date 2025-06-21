@@ -7,16 +7,19 @@ export const contactData : contact[] = [
     {
         id:1,
         contactName : "monaliwarghane97@gmail.com",
-        icon : emailIcon
+        icon : emailIcon,
+        link: "mailto:monaliwarghane97@gmail.com"
     },
     {
         id:2,
         contactName : "https://github.com/warghane-monali",
-        icon : gitHubIcon
+        icon : gitHubIcon,
+        link : `https://github.com/warghane-monali`
     },
     {
         id:3,
         contactName : "https://www.linkedin.com/in/monali-bb1756212/",
-        icon : linkdinIcon
+        icon : linkdinIcon,
+        link : `https://www.linkedin.com/in/monali-bb1756212/`
     }
 ]

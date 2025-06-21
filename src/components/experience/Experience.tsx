@@ -5,6 +5,7 @@ import reactImg from "../../assets/images/react-logo-svgrepo-com.svg"
 import typescriptImg from "../../assets/images/typescript-svgrepo-com.svg"
 import tailwindImg from "../../assets/images/tailwindcss-icon-svgrepo-com.svg"
 import javascriptImg from "../../assets/images/javascript-svgrepo-com.svg"
+import reactNativeImg from "../../assets/images/react-svgrepo-com.svg"
 
 export const Experience = () => {
   return (
@@ -27,6 +28,10 @@ export const Experience = () => {
                 <span className="p-3 bg-zinc-950 flex items-center rounded-2xl hover:opacity-85 duration-300 hover:scale-105 flex-col">
                     <img className="h-10" src={reactImg} alt="HTML Icon" />
                     <p className="text-white text-sm font-bold p-2">ReactJs</p>
+                </span>
+                <span className="p-3 bg-zinc-950 flex items-center rounded-2xl hover:opacity-85 duration-300 hover:scale-105 flex-col">
+                    <img className="h-10" src={reactNativeImg} alt="HTML Icon" />
+                    <p className="text-white text-sm font-bold p-2">React Native</p>
                 </span>
                 <span className="p-3 bg-zinc-950 flex items-center rounded-2xl hover:opacity-85 duration-300 hover:scale-105 flex-col">
                     <img className="h-10" src={tailwindImg} alt="HTML Icon" />

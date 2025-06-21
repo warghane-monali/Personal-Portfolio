@@ -14,7 +14,9 @@ export const Projects:React.FC = () => {
               key={items.id}
               icon={items.icon}
               title={items.title} 
-              main={items.main}/>
+              main={items.main}
+              gitlink={items.gitlink}
+              projectlink={items.projectlink}/>
             })
           }
         </div>

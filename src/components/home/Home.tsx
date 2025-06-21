@@ -4,7 +4,7 @@ const Home = () => {
 
   const handleDownload = () => {
     const link = document.createElement('a');
-    link.href = '/Monali Warghane_Updated_v1.pdf'; // This refers to the public folder
+    link.href = '/Monali Warghane_Updated_v1.pdf'; 
     link.download = 'Monali_Warghane_Resume.pdf';
     link.click();
   };
