@@ -1,7 +1,7 @@
 import type { contact } from "../types";
 import emailIcon from "../assets/images/email-mail-svgrepo-com.svg";
 import gitHubIcon from "../assets/images/github-svgrepo-com.svg";
-import linkdinIcon from "../assets/images/linkedin-icon-logo-svgrepo-com.svg"
+import linkdinIcon from "../assets/images/linkedin-linked-in-svgrepo-com.svg"
 
 export const contactData : contact[] = [
     {

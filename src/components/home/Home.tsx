@@ -1,3 +1,4 @@
+import { Download } from "lucide-react";
 import avtarImg from "../../assets/images/7358602-removebg-preview.png"
 import { TextChange } from "../TextChange";
 const Home = () => {
@@ -21,8 +22,9 @@ const Home = () => {
         </p>
         <button 
           onClick={handleDownload}
-          className="mt-5 md:md-10 text-white py-2 px-3 text-sm md:text-lg md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]
+          className="flex items-center gap-2 mt-5 md:md-10 text-white py-2 px-3 text-sm md:text-lg md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]
           ">
+            <Download size={22}/>
           Download CV
         </button>
       </div>

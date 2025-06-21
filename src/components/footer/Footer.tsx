@@ -21,7 +21,7 @@ export const Footer = () => {
                                     rel="noopener noreferrer"
                                     className="flex flex-row gap-2 items-center "
                                     >
-                                    <img src={item.icon} className="h-5" alt="icon" />
+                                    <img src={item.icon} className="h-6" alt="icon" />
                                     <span>{item.contactName}</span>
                                 </a>
                             </li>
