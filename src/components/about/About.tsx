@@ -20,7 +20,7 @@ export const About = () => {
                             </div>
                         
                         <p className='text-md md:text-lg leading-tight'>
-                            Frontend Developer specialized in ReactJS & React Native with 2+ years of hands-on experience in developing scalable, high-performance web and mobile applications. Strong expertise in building reusable UI components, managing state with Redux Toolkit, and integrating REST APIs. Proficient in delivering end-to-end solutions using ReactJS, React Native. Passionate about building user-centric products and optimizing user experience.</p>
+                            Frontend Developer specialized in ReactJS & React Native with 3+ years of hands-on experience in developing scalable, high-performance web and mobile applications. Strong expertise in building reusable UI components, managing state with Redux Toolkit, and integrating REST APIs. Proficient in delivering end-to-end solutions using ReactJS, React Native. Passionate about building user-centric products and optimizing user experience.</p>
                         </span>
                     </div>
                 </ul>

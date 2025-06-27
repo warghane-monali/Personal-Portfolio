@@ -43,16 +43,29 @@ export const Experience = () => {
                 </span>
             </div>
 
-            <div className="flex gap-10 bg-slate-950 bg-opacity-45 rounded-lg p-4 items-cen'">
+            <div className="flex gap-10 bg-slate-950 bg-opacity-45 rounded-lg p-4">
                 <span className="text-white">
                     <h2 className="text-md md:text-lg leading-tight">Solution Developer</h2>
-                    <p className="text-sm leading-tight font-thin">Dec 2022 - Present</p>
+                    <p className="text-sm leading-tight font-thin">April 2023 - June 2025</p>
                     <ul className="text-md md:text-lg p-2">
                         <li>• Developed responsive web and mobile UIs using ReactJS and React Native.</li>
                         <li>• Managed state with Redux to ensure smooth user experiences.</li>
                         <li>• Integrated backend APIs for efficient data handling and real-time updates.</li>
                         <li>• Maintained clean code standards and used Git for effective version control and debugging.</li>
                     </ul>
+                </span>
+            </div>
+
+            <div className="flex gap-10 bg-slate-950 bg-opacity-45 rounded-lg p-4 mt-4">
+                <span className="text-white">
+                    <h2 className="text-md md:text-lg leading-tight">Frontend Developer Intern</h2>
+                    <p className="text-sm leading-tight font-thin">June 2022 - April 2023</p>
+                    <ul className="text-md md:text-lg p-2">
+                        <li>• Assisted in developing responsive user interfaces using ReactJS and React Native.</li>
+                        <li>• Gained hands-on experience in managing state with Redux for seamless UI interactions.</li>
+                        <li>• Contributed to integrating RESTful APIs to support dynamic data rendering.</li>
+                        <li>• Followed clean code practices and collaborated using Git for version control.</li>
+                        </ul>
                 </span>
             </div>
         </div>
